@@ -43,3 +43,4 @@ if r == 3
 else
     fprintf('System is NOT fully controllable.\n');
 end
+
