@@ -13,7 +13,7 @@
  */
 
 static float Kp = -4200.0f;
-static float Ki = 0.0f;
+static float Ki = -15.0f;
 static float Kd = -300.0f;
 
 float computePID(
